@@ -1,0 +1,5 @@
+0 good
+1 poke
+2 cut
+3 fold
+4 glue
