@@ -54,7 +54,7 @@ with st.sidebar:
     st.subheader("📂 Classes Detected")
     st.markdown("- ✅ Good\n- ❌ Anomaly (tear, stain, scratch, etc.)")
     st.markdown("---")
-    st.write("Created by: *Kushal Parekh*")
+    st.write("Created by: *Darshan Panchal*")
 
 # Header
 st.title("👜 Leather Anomaly Detection System")
